@@ -11,7 +11,7 @@ Employment Experience
 
 August 2017 –Present
 
-Amazon Sort Center associate | Amazon.com, LLC| 1900 NW 132nd Pl, Miami, Florida 33182
+Amazon Sort Center associate  Amazon.com, LLC 1900 NW 132nd Pl, Miami, Florida 33182
 
 Skills and Abilities
 
