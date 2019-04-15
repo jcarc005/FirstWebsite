@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/jcarc005/FirstWebsite/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered this is a test
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jcarc005/FirstWebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Education
+•	McArthur High School Hollywood, Florida 33024, High School Diploma received June 2013
+•	Broward College Pembroke Pines, Florida 33024, A.A. degree Graduated December 2016 
+•	Florida International University 2017-Present, B.S. in Information Technology anticipated date of graduation Fall 2020 
+Employment Experience
+August 2017 –Present
+Amazon Sort Center associate | Amazon.com, LLC| 1900 NW 132nd Pl, Miami, Florida 33182
+Skills and Abilities
+•	Knowledge of java and familiar with other object-oriented programming languages
+•	Comfortable with different operating systems like macOS and Windows
+•	Proficient in Microsoft Word, PowerPoint, and Excel
+•	Bilingual – Fluent in English and Spanish
+•	Willing to relocate
+•	 Communications skills through technical writing coursework and working with a group of people
